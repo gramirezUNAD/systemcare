@@ -5,7 +5,7 @@
 	<meta content="Gustavo Ramirez Aristizabal" name="author">
 	<meta content="Sitio Web Practica Hangout" name="description">
 	<meta content="UNAD, diseño web, html" name="keywords">
-	<title>O.V.I Administracion de Redes</title>
+	<title>System Care</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
